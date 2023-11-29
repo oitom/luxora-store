@@ -60,3 +60,9 @@ export default {
   components: { CartMenu },
 }
 </script>
+<style scoped>
+h1 {
+  font-family: 'AustinBold', Austin;
+  font-size: xxx-large;
+}
+</style>

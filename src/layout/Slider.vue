@@ -25,8 +25,8 @@ export default {
       {
         id: 1,
         img: 'images/slider/slider-1.jpg',
-        title: 'PRODUCTS',
-        desc: 'The beauty of nature <br> is hidden in details.',
+        title: 'PRODUTOS',
+        desc: 'A beleza da natureza <br>está escondida nos detalhes.',
         class: 'text-left',
         link: '/'
       },
@@ -34,7 +34,7 @@ export default {
         id: 2,
         img: 'images/slider/slider-2.jpg',
         title: 'PRODUCTS',
-        desc: 'The beauty of nature <br> is hidden in details.',
+        desc: 'A beleza da natureza <br>está escondida nos detalhes.',
         class: 'text-right',
         link: '/'
       },
@@ -42,7 +42,7 @@ export default {
         id: 3,
         img: 'images/slider/slider-3.jpg',
         title: 'PRODUCTS',
-        desc: 'The beauty of nature <br> is hidden in details.',
+        desc: 'A beleza da natureza <br>está escondida nos detalhes.',
         class: 'text-left',
         link: '/'
       },
