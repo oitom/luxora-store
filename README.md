@@ -1,4 +1,4 @@
-# Vestir Bem Store
+# Luxora Store
 Aplicativo estilo e-commerce desenvolvido em Vue.js 3 para uma loja de moda moderna, utilizando o gerenciador de pacotes npm.
 
 ## Project setup
