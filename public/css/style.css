@@ -97,7 +97,16 @@ blockquote {
 .navbar-toggle .icon-bar {
   background: #000;
 }
-
+.navbar-toggle {
+  background-color: transparent;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  position: absolute;
+  right: 0;
+  top: 14px;
+  margin: -10px 10px;
+}
 input[type=email], input[type=password], input[type=text], input[type=tel] {
   border-radius: 0;
   box-shadow: none;
@@ -739,9 +748,11 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 @media (max-width: 768px) {
   .navigation .menu-title {
-    display: inline-block;
-    padding-left: 10px;
-  }
+    display: block;
+    margin: 15px auto;
+    text-align: center;
+    width: 100%;
+}
 }
 .navigation .navbar-nav > li {
   position: static;
@@ -782,7 +793,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   font-size: 12px;
   border: 1px solid transparent;
   display: block;
-  padding: 8px 16px;
+  padding: 5px 10px;
   letter-spacing: 0.5px;
   text-transform: uppercase;
   transition: 0.3s all;

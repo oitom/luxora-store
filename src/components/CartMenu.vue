@@ -6,7 +6,7 @@
         <img class="media-object" :src="`${c.img}`" alt="image" />
       </a>
       <div class="media-body">
-        <h4 class="media-heading"><a href="#">{{ c.nome }}</a></h4>
+        <h4 class="media-heading"> {{ c.nome }} </h4>
         <div class="cart-price">
           <span>{{ c.qtd }} x</span>
           <span>{{ c.valor }}</span>
