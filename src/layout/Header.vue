@@ -12,7 +12,7 @@
         <div class="col-md-4 col-xs-12 col-sm-4">
           <div class="logo text-center">
             <router-link to="/">
-              <h1>Vestir Bem - Store</h1>
+              <h1>Luxora - Store</h1>
             </router-link>
           </div>
         </div>
